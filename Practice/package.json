@@ -2,6 +2,16 @@
   "dependencies": {
     "prompt-sync": "^4.2.0",
     "type": "module"
-}
-
+  },
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "atmCardValidation.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
