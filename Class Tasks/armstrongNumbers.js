@@ -1,4 +1,3 @@
-
 function armstrongNumbers(num) {
     
     let sum = 0;
