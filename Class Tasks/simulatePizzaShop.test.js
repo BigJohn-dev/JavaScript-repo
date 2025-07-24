@@ -28,4 +28,4 @@ test("that function returns message for unknown pizza", () => {
     const order = { PizzaOrder: { name: "Dominos", quantity: 1 } };
     const expectedResult = getPizzaPrice(order);
     expect(expectedResult).toEqual("Sorry, we do not have Dominos pizza");
-})pp\
+})
